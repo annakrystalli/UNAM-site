@@ -41,10 +41,10 @@ output:
 
 ### **Course Materials**
 
-- [Functions in R](https://annakrystalli.github.io/UNAM/Functions_in_R.nb.html)
-- [Looping in R](https://annakrystalli.github.io/UNAM/Looping_in_R.nb.html)
-- [Rmarkdown](https://annakrystalli.github.io/UNAM/rmarkdown.nb.html)
-- [Github](https://annakrystalli.github.io/UNAM/collab_gh_intro.nb.html)
+- [Functions in R](https://annakrystalli.github.io/UNAM-site/Functions_in_R.nb.html)
+- [Looping in R](https://annakrystalli.github.io/UNAM-site/Looping_in_R.nb.html)
+- [Rmarkdown](https://annakrystalli.github.io/UNAM-site/rmarkdown.nb.html)
+- [Github](https://annakrystalli.github.io/UNAM-site/collab_gh_intro.nb.html)
 
 
 
