@@ -1,0 +1,63 @@
+---
+title: 
+author: 
+date: 
+output: 
+    html_document:
+        theme: paper
+---
+
+
+# **UNAM #rstats & #openscience workshops**
+
+<br>
+<br>
+
+#### *Anna Krystalli*
+
+##### ***Instituto de Ecología, UNAM 30 Aug - 1 Sep 2016***
+
+<br>
+
+
+###### [\@annakrystalli](https://twitter.com/annakrystalli) | annakrystalli@googlemail.com
+
+
+***
+
+<br>
+<br>
+
+### **Timetable**
+
+| date   | time       | topic                    | location  |
+|--------|------------|--------------------------|-----------|
+| 30 Aug | 11 - 14h30 | Functions & Looping in R | Auditorio |
+| 31 Aug | 10 - 11:30 | Rmarkdown                | Aula      |
+| 1 Sep  | 12 - 14:30 | Github through Rstudio   | Aula      |
+
+
+<br>
+
+### **Course Materials**
+
+- [Functions in R](https://annakrystalli.github.io/UNAM/Functions_in_R.nb.html)
+- [Looping in R](https://annakrystalli.github.io/UNAM/Looping_in_R.nb.html)
+- [Rmarkdown](https://annakrystalli.github.io/UNAM/rmarkdown.nb.html)
+- [Github](https://annakrystalli.github.io/UNAM/collab_gh_intro.nb.html)
+
+
+
+### **Some ways to keep things going:**
+
+1. [Mozilla Science](https://science.mozilla.org/) style [**Study groups**](https://science.mozilla.org/blog/introducing-mozilla-science-study-groups): [Univeristy of British Columbia](http://minisciencegirl.github.io/studyGroup/) have a great one. Get inspired!
+2. Set up a [meetup](https://www.meetup.com/).  At Sheffield we run the [**R Users group**](https://www.meetup.com/SheffieldR-Sheffield-R-Users-Group/) meetup. Could open up to wider participation and engage with R users from other departments and even outside the university (might need some funding for this).
+3. At the very least, you could set up a **Facebook group** to share tools, ideas, questions and advice. e.g. see the [**R-space**](https://www.facebook.com/groups/308600982528221/) group on Facebook.
+
+
+
+<br>
+<br>
+
+Supported by:
+<img src="http://www.fusenet.eu/sites/default/files/royal_society_logo.jpg" width="200px"/>
